@@ -1,0 +1,1 @@
+protoc-3.19.1-win64.exe --go_out=plugins=grpc:. ./*.proto

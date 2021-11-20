@@ -1,0 +1,1 @@
+go get -a github.com/golang/protobuf/protoc-gen-go
